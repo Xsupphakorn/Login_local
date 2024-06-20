@@ -2,7 +2,7 @@
 
 this project work on commonJS ✅
 
-##API list !!!
+## API list !!!
 * Register
 * Login
 * User (CRUD)
@@ -11,7 +11,7 @@ this project work on commonJS ✅
 
 this manager API in project use JWT for security!!!
 
-##Getting start!!! 📣📣
+## Getting start!!! 📣📣
 1.Clone this repository.
 2.Install dependencies:
 ``` bash
@@ -31,8 +31,8 @@ MYSQL_PASSWORD=your_password_sql
 node index.js
 ```
 
-##API detail..
-###Register
+## API detail..
+### Register
 ``` bash
 POST /register
 ```
