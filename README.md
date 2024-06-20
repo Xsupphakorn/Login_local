@@ -35,7 +35,7 @@ node index.js
 ➡️ https://drive.google.com/file/d/1RMa5j2EpEVOWNx1891RZI65BSmLRePPl/view?usp=sharing
 
 ## API detail..
-### Register
+### Register (Create)
 ``` bash
 POST /register
 ```
@@ -88,7 +88,7 @@ don't forgot use headers!!
 
 🔽🔽🔽🔽🔽🔽🔽🔽
 
-### Find user
+### Read user
 
 find all : 
 ``` bash
@@ -148,7 +148,7 @@ Responses :
 }
 ```
 
-### Find tasks
+### Read tasks
 
 find all : 
 ``` bash
@@ -232,7 +232,7 @@ Responses :
 }
 ```
 
-### Find comments
+### Read comments
 find with task_id : 
 ``` bash
 GET /task/comment/{task_id}
