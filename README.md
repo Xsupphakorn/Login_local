@@ -32,7 +32,7 @@ node index.js
 ```
 
 ## SQL Relationship
-[![image][[https://img5.pic.in.th/file/secure-sv1/Screenshot-2567-06-20-at-22.53.24.png](https://img5.pic.in.th/file/secure-sv1/Screenshot-2567-06-20-at-22.53.24.png)]
+[![image][https://drive.google.com/file/d/1RMa5j2EpEVOWNx1891RZI65BSmLRePPl/view?usp=sharing]
 
 ## API detail..
 ### Register
